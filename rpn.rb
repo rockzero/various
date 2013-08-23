@@ -1,3 +1,5 @@
+# coding: utf-8
+
 $rary = []
 def r_pu
     r = gets
